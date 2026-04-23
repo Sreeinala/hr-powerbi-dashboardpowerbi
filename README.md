@@ -20,7 +20,7 @@ This project analyzes employee attrition and workforce trends using an interacti
 - Sales Executive and Lab Technician roles show higher attrition
 
 ## 📷 Dashboard Preview
-![Dashboard]
+![Dashboard] hr analytics dashboard.png
 
 ## 📁 Files
 - HR_Analytics.pbix
